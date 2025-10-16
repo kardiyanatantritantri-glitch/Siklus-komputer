@@ -1,0 +1,2 @@
+# Siklus-komputer
+Siklus komputer 
